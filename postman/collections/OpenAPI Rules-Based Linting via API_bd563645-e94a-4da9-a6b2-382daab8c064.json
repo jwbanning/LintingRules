@@ -2,7 +2,7 @@
     "info": {
         "_postman_id": "f9169edb-be31-4307-a6fb-01070cb24beb",
         "name": "OpenAPI Rules-Based Linting via API",
-        "description": "This collection lints an OpenAPI using a public API, passing an OpenAPI and a URL for a set of rules to be used when linting, returning the assertions using the test results for the response. The API doesn't require authentication, and works to make linting on OAS documents as easy as possible.\n\n## Rules\nYou can explore [more rules](http://rules.linting.org/) via the rules catalog we are creating to help improve the rulesets available, and [submit a Github issue](https://github.com/postman-open-technologies/linting-rules/issues) if there is a rule you'd like to see or need help with.\n\n## Support\nFeel free comment on this collection, and the OpenAPI, and make forks of this collection to help iterate upon the design, or directly make the changes to the OpenAPI. [You can also submit issues via the GitHub repository for the project](https://github.com/postman-open-technologies/openapi-linting-api/issues), and play with the code behind.",
+        "description": "This collection lints an OpenAPI using a public API, passing an OpenAPI and a URL for a set of rules to be used when linting, returning the assertions using the test results for the response. The API doesn't require authentication, and works to make linting on OAS documents as easy as possible.\n\n## Rules\n\nYou can explore [more rules](http://rules.linting.org/) via the rules catalog we are creating to help improve the rulesets available, and [submit a Github issue](https://github.com/postman-open-technologies/linting-rules/issues) if there is a rule you'd like to see or need help with.\n\n## Support\n\nFeel free comment on this collection, and the OpenAPI, and make forks of this collection to help iterate upon the design, or directly make the changes to the OpenAPI. [You can also submit issues via the GitHub repository for the project](https://github.com/postman-open-technologies/openapi-linting-api/issues), and play with the code behind.",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
@@ -7713,7 +7713,7 @@
     ],
     "variable": [
         {
-            "id": "a190c262-78f9-4c22-9c70-6ffe54b22843",
+            "id": "cc13e64a-c2f7-40d4-8424-7be5c683ddc1",
             "key": "baseUrl",
             "value": "https://uu61q0hha5.execute-api.us-west-2.amazonaws.com/Prod"
         }
